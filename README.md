@@ -23,7 +23,7 @@
   </details>
 
   <details>
-  <summary>الأدوات والبدائل</summary>
+  <summary>الأدوات</summary>
   <ul>
     <li>VSCode</li>
     <li>Live Server</li>
@@ -78,7 +78,7 @@
   </details>
 
   <details>
-  <summary>الأدوات والبدائل</summary>
+  <summary>الأدوات </summary>
   <ul>
     <li>Postman / Insomnia لاختبار API</li>
     <li>NGROK لتجربة السيرفر المحلي</li>
@@ -96,7 +96,7 @@
 <summary>المستوى المتقدم</summary>
 
   <details>
-  <summary>أطر العمل Front-End والدروس الفيديوية</summary>
+  <summary>أطر العمل Front-End والدروس </summary>
   <ul>
     <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS">React.js</a></li>
     <li><a href="https://youtu.be/k7o9R6eaSes">Next.js</a></li>
@@ -122,7 +122,7 @@
   </details>
 
   <details>
-  <summary>الأدوات والبدائل المتقدمة</summary>
+  <summary>الأدوات </summary>
   <ul>
     <li>Fastify</li>
     <li>Bun Runtime</li>
