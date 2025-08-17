@@ -1,40 +1,5 @@
 # Full-Stack Web Development Path
 
-<style>
-  summary {
-    font-size: 18px;
-    font-weight: bold;
-    cursor: pointer;
-    padding: 5px 10px;
-    background-color: #4CAF50;
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 5px;
-    transition: all 0.3s ease;
-  }
-  summary:hover {
-    background-color: #45a049;
-  }
-  details[open] summary {
-    background-color: #388E3C;
-  }
-  ul li {
-    margin-bottom: 5px;
-    line-height: 1.5;
-  }
-  a {
-    color: #1E88E5;
-    text-decoration: none;
-    transition: color 0.2s ease;
-  }
-  a:hover {
-    color: #0D47A1;
-    text-decoration: underline;
-  }
-</style>
-
----
-
 <details>
 <summary>Beginner Level</summary>
 
@@ -51,13 +16,9 @@
   <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">Project 1</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">Project 2</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">Project 3</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">Project 4</a></li>
-  <li><a href="https://www.youtube.com/watch?v=l7WzND2sD-A">Project 5</a></li>
 </ul>
 
 </details>
-
----
 
 <details>
 <summary>Intermediate Level</summary>
@@ -80,8 +41,6 @@
 
 </details>
 
----
-
 <details>
 <summary>Advanced Level</summary>
 
@@ -99,9 +58,17 @@
   <li><a href="https://www.electronjs.org/">Electron</a></li>
 </ul>
 
-</details>
+### Additional Languages & Libraries
+<ul>
+  <li>Python (for Backend & Data Science)</li>
+  <li>Deno (Alternative to Node.js, faster runtime)</li>
+  <li>Go (Golang) – High-performance backend services</li>
+  <li>Rust (for WebAssembly & performance-critical code)</li>
+  <li>GraphQL (API query language)</li>
+  <li>jQuery (lightweight DOM manipulation, optional)</li>
+</ul>
 
----
+</details>
 
 <details>
 <summary>Big Projects</summary>
@@ -119,8 +86,6 @@
 
 </details>
 
----
-
 <details>
 <summary>Additional Tools & Libraries</summary>
 
@@ -129,7 +94,12 @@
   <li><a href="https://ngrok.com/">NGROK (Local Server Tunneling)</a></li>
   <li><a href="https://git-scm.com/">Git & GitHub (Version Control)</a></li>
   <li>VSCode Extensions (Linting & Debugging)</li>
-  <li>Other JS Libraries as needed for projects</li>
+  <li><a href="https://www.mongodb.com/">MongoDB (NoSQL Database)</a></li>
+  <li><a href="https://www.postgresql.org/">PostgreSQL (Advanced SQL Database)</a></li>
+  <li><a href="https://redis.io/">Redis (Caching & Fast Data Storage)</a></li>
+  <li>Docker (Containerization & DevOps)</li>
+  <li>Kubernetes (Orchestration for Production Apps)</li>
+  <li>Other JS Libraries as needed for projects (Lodash, Axios, Chart.js, etc.)</li>
 </ul>
 
 </details>
