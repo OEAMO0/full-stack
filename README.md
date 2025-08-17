@@ -1,105 +1,112 @@
-# Full-Stack Web Development Path
+# Full-Stack Web Development Path (Professional)
 
-<details>
-<summary>Beginner Level</summary>
+---
 
-### HTML & CSS
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji">HTML</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ">HTML5</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe">CSS</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC">CSS3</a></li>
-</ul>
+## 🟢 Beginner Level (Foundations)
 
-### HTML & CSS Projects
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">Project 1</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">Project 2</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">Project 3</a></li>
-</ul>
+### Core Web
+- **HTML**
+  - [HTML Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+  - [HTML5 Semantic Tags](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ)
+- **CSS**
+  - [CSS Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+  - [CSS3 Advanced](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC)
 
-</details>
+### Beginner Projects
+- [Personal Portfolio](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
+- [Simple Landing Page](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
+- [Basic E-commerce UI](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
 
-<details>
-<summary>Intermediate Level</summary>
+### Tools & Libraries
+- VSCode
+- Live Server Extension
+- Chrome DevTools
+
+### Alternatives (Easier/Quicker)
+- **HTML/CSS Templates:** [HTML5 UP](https://html5up.net/)
+- **CSS Frameworks:** [Bootstrap](https://getbootstrap.com/) for rapid styling instead of pure CSS
+- **Visual Builders:** [Figma for prototyping](https://www.figma.com/)
+
+---
+
+## 🟡 Intermediate Level (JavaScript & Backend Basics)
 
 ### JavaScript
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">JavaScript</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M">JavaScript ES6</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF">JavaScript OOP</a></li>
-  <li><a href="https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3">Advanced JavaScript</a></li>
-</ul>
+- [JavaScript Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- [JavaScript ES6](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
+- [JavaScript OOP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
+- [Advanced JavaScript](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3)
 
 ### Node.js & Backend
-<ul>
-  <li><a href="https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu">Node.js</a></li>
-  <li><a href="https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag">Password Hashing with bcrypt</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">SQL - MySQL</a></li>
-  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
-</ul>
+- [Node.js Crash Course](https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu)
+- [Express.js & API](https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag)
+- [SQL - MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+- [Prisma ORM](https://www.youtube.com/watch?v=yW6HnMUAWNU)
 
-</details>
+### Projects
+- **Todo App**
+- **Blog App**
+- **Simple User Management System**
 
-<details>
-<summary>Advanced Level</summary>
+### Tools
+- Postman (API Testing)
+- NGROK (Local Server Testing)
+- Git & GitHub
+- VSCode Extensions: ESLint, Prettier
 
-### Front-End Frameworks & Tools
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS">React.js</a></li>
-  <li><a href="https://youtu.be/k7o9R6eaSes">Next.js</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">TypeScript</a></li>
-  <li><a href="https://www.youtube.com/watch?v=Pk3hhCJG2Dk">Tailwind CSS</a></li>
-  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">NextAuth</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma">ShadCN</a></li>
-  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
-  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">Fastify</a></li>
-  <li><a href="https://bun.sh">Bun</a></li>
-  <li><a href="https://www.electronjs.org/">Electron</a></li>
-</ul>
+### Alternatives
+- **Backend:** Deno (simpler than Node.js for small projects)
+- **Database:** SQLite (lighter than MySQL/PostgreSQL)
+- **ORM:** Prisma Lite / Sequelize
 
-### Additional Languages & Libraries
-<ul>
-  <li>Python (for Backend & Data Science)</li>
-  <li>Deno (Alternative to Node.js, faster runtime)</li>
-  <li>Go (Golang) – High-performance backend services</li>
-  <li>Rust (for WebAssembly & performance-critical code)</li>
-  <li>GraphQL (API query language)</li>
-  <li>jQuery (lightweight DOM manipulation, optional)</li>
-</ul>
+---
 
-</details>
+## 🔵 Advanced Level (Front-End Frameworks & Fullstack)
 
-<details>
-<summary>Big Projects</summary>
+### Front-End
+- [React.js](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS)
+- [Next.js](https://youtu.be/k7o9R6eaSes)
+- [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+- [Tailwind CSS](https://www.youtube.com/watch?v=Pk3hhCJG2Dk)
+- [NextAuth.js](https://www.youtube.com/watch?v=GL2Dc4r6tkU)
+- [ShadCN UI Components](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
 
-<ul>
-  <li><a href="https://youtu.be/ZbX4Ok9YX94">FullStack Discord Clone - Final Project</a></li>
-  <li><a href="https://www.youtube.com/watch?v=PGPGcKBpAk8">Project 1</a></li>
-  <li><a href="https://youtu.be/Big_aFLmekI">Project 2</a></li>
-  <li><a href="https://www.youtube.com/watch?v=Av9C7xlV0fA">Project 3 - Part 1</a></li>
-  <li><a href="https://www.youtube.com/watch?v=37v63U7-iG0">Project 3 - Part 2</a></li>
-  <li><a href="https://www.youtube.com/watch?v=LyfUTRJ2gOs">Project 4</a></li>
-  <li><a href="https://www.youtube.com/watch?v=3CMgznBdl-M">Project 5</a></li>
-  <li><a href="https://www.youtube.com/watch?v=OkKbAuQXFcM">Project 6</a></li>
-</ul>
+### Backend & Tools
+- [Fastify](https://www.youtube.com/watch?v=GL2Dc4r6tkU)
+- Bun runtime ([Bun.sh](https://bun.sh))
+- Electron (Desktop Apps)
+- Docker & Kubernetes (Deployment & Containerization)
+- Advanced Databases: MongoDB, PostgreSQL, Redis
 
-</details>
+### Projects
+- **FullStack Discord Clone** ([YouTube](https://youtu.be/ZbX4Ok9YX94))
+- **E-commerce Store** ([Project 1](https://www.youtube.com/watch?v=PGPGcKBpAk8))
+- **Social Media App** ([Project 2](https://youtu.be/Big_aFLmekI))
+- **Chat App** ([Project 3 Part 1](https://www.youtube.com/watch?v=Av9C7xlV0fA))  
+- **Chat App** ([Project 3 Part 2](https://www.youtube.com/watch?v=37v63U7-iG0))
+- **Job Portal** ([Project 4](https://www.youtube.com/watch?v=LyfUTRJ2gOs))
+- **Project Management Tool** ([Project 5](https://www.youtube.com/watch?v=3CMgznBdl-M))
+- **Video Streaming App** ([Project 6](https://www.youtube.com/watch?v=OkKbAuQXFcM))
 
-<details>
-<summary>Additional Tools & Libraries</summary>
+### Alternatives
+- **Front-End Frameworks:** Vue.js (easier learning curve than React)
+- **Fullstack Framework:** Remix / SvelteKit (simpler than Next.js)
+- **Databases:** Supabase (PostgreSQL + Auth in one)
+- **Desktop Apps:** Tauri (lighter alternative to Electron)
 
-<ul>
-  <li><a href="https://www.postman.com/">Postman (API Testing)</a></li>
-  <li><a href="https://ngrok.com/">NGROK (Local Server Tunneling)</a></li>
-  <li><a href="https://git-scm.com/">Git & GitHub (Version Control)</a></li>
-  <li>VSCode Extensions (Linting & Debugging)</li>
-  <li><a href="https://www.mongodb.com/">MongoDB (NoSQL Database)</a></li>
-  <li><a href="https://www.postgresql.org/">PostgreSQL (Advanced SQL Database)</a></li>
-  <li><a href="https://redis.io/">Redis (Caching & Fast Data Storage)</a></li>
-  <li>Docker (Containerization & DevOps)</li>
-  <li>Kubernetes (Orchestration for Production Apps)</li>
-  <li>Other JS Libraries as needed for projects (Lodash, Axios, Chart.js, etc.)</li>
-</ul>
+---
 
-</details>
+## ⚡ Additional Tools & Libraries
+
+- Git & GitHub
+- Postman / Insomnia
+- NGROK
+- VSCode Extensions
+- Docker / Kubernetes
+- Lodash, Axios, Chart.js
+- Testing: Jest, Cypress
+
+### Alternatives
+- **Version Control:** GitKraken (GUI instead of CLI)
+- **API Testing:** Hoppscotch (lighter than Postman)
+- **Containers:** Podman (simpler than Docker)
