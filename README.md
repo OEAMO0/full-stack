@@ -1,112 +1,152 @@
-# Full-Stack Web Development Path (Professional)
+# Full-Stack Web Development Path (Pro Version)
 
----
-
-## 🟢 Beginner Level (Foundations)
+<details>
+<summary>Foundations (Beginner Level)</summary>
 
 ### Core Web
-- **HTML**
-  - [HTML Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
-  - [HTML5 Semantic Tags](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ)
-- **CSS**
-  - [CSS Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
-  - [CSS3 Advanced](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC)
-
-### Beginner Projects
-- [Personal Portfolio](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
-- [Simple Landing Page](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
-- [Basic E-commerce UI](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
-
-### Tools & Libraries
-- VSCode
-- Live Server Extension
-- Chrome DevTools
-
-### Alternatives (Easier/Quicker)
-- **HTML/CSS Templates:** [HTML5 UP](https://html5up.net/)
-- **CSS Frameworks:** [Bootstrap](https://getbootstrap.com/) for rapid styling instead of pure CSS
-- **Visual Builders:** [Figma for prototyping](https://www.figma.com/)
-
----
-
-## 🟡 Intermediate Level (JavaScript & Backend Basics)
-
-### JavaScript
-- [JavaScript Basics](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
-- [JavaScript ES6](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)
-- [JavaScript OOP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
-- [Advanced JavaScript](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3)
-
-### Node.js & Backend
-- [Node.js Crash Course](https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu)
-- [Express.js & API](https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag)
-- [SQL - MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
-- [Prisma ORM](https://www.youtube.com/watch?v=yW6HnMUAWNU)
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji">HTML Basics</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ">HTML5 Semantic</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe">CSS Basics</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC">CSS3 Advanced</a></li>
+</ul>
 
 ### Projects
-- **Todo App**
-- **Blog App**
-- **Simple User Management System**
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">Personal Portfolio</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">Landing Page</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">Basic E-commerce UI</a></li>
+</ul>
 
 ### Tools
-- Postman (API Testing)
-- NGROK (Local Server Testing)
-- Git & GitHub
-- VSCode Extensions: ESLint, Prettier
+<ul>
+  <li>VSCode</li>
+  <li>Live Server</li>
+  <li>Chrome DevTools</li>
+</ul>
 
 ### Alternatives
-- **Backend:** Deno (simpler than Node.js for small projects)
-- **Database:** SQLite (lighter than MySQL/PostgreSQL)
-- **ORM:** Prisma Lite / Sequelize
+<ul>
+  <li>Bootstrap instead of pure CSS</li>
+  <li>HTML Templates: <a href="https://html5up.net/">HTML5 UP</a></li>
+  <li>Visual prototyping: <a href="https://www.figma.com/">Figma</a></li>
+</ul>
 
----
+</details>
 
-## 🔵 Advanced Level (Front-End Frameworks & Fullstack)
+<details>
+<summary>Intermediate Level (JavaScript & Backend Basics)</summary>
 
-### Front-End
-- [React.js](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS)
-- [Next.js](https://youtu.be/k7o9R6eaSes)
-- [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
-- [Tailwind CSS](https://www.youtube.com/watch?v=Pk3hhCJG2Dk)
-- [NextAuth.js](https://www.youtube.com/watch?v=GL2Dc4r6tkU)
-- [ShadCN UI Components](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
+### JavaScript
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">JavaScript Basics</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M">JavaScript ES6</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF">JavaScript OOP</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3">Advanced JavaScript</a></li>
+</ul>
 
-### Backend & Tools
-- [Fastify](https://www.youtube.com/watch?v=GL2Dc4r6tkU)
-- Bun runtime ([Bun.sh](https://bun.sh))
-- Electron (Desktop Apps)
-- Docker & Kubernetes (Deployment & Containerization)
-- Advanced Databases: MongoDB, PostgreSQL, Redis
+### Node.js & Backend
+<ul>
+  <li><a href="https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu">Node.js Crash Course</a></li>
+  <li><a href="https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag">Express & Password Hashing with bcrypt</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">MySQL - SQL Basics</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma ORM</a></li>
+</ul>
 
 ### Projects
-- **FullStack Discord Clone** ([YouTube](https://youtu.be/ZbX4Ok9YX94))
-- **E-commerce Store** ([Project 1](https://www.youtube.com/watch?v=PGPGcKBpAk8))
-- **Social Media App** ([Project 2](https://youtu.be/Big_aFLmekI))
-- **Chat App** ([Project 3 Part 1](https://www.youtube.com/watch?v=Av9C7xlV0fA))  
-- **Chat App** ([Project 3 Part 2](https://www.youtube.com/watch?v=37v63U7-iG0))
-- **Job Portal** ([Project 4](https://www.youtube.com/watch?v=LyfUTRJ2gOs))
-- **Project Management Tool** ([Project 5](https://www.youtube.com/watch?v=3CMgznBdl-M))
-- **Video Streaming App** ([Project 6](https://www.youtube.com/watch?v=OkKbAuQXFcM))
+<ul>
+  <li>Todo App</li>
+  <li>Blog App</li>
+  <li>Simple User Management</li>
+</ul>
+
+### Tools
+<ul>
+  <li>Postman</li>
+  <li>NGROK</li>
+  <li>Git & GitHub</li>
+  <li>VSCode Extensions: ESLint, Prettier</li>
+</ul>
 
 ### Alternatives
-- **Front-End Frameworks:** Vue.js (easier learning curve than React)
-- **Fullstack Framework:** Remix / SvelteKit (simpler than Next.js)
-- **Databases:** Supabase (PostgreSQL + Auth in one)
-- **Desktop Apps:** Tauri (lighter alternative to Electron)
+<ul>
+  <li>Deno (simpler than Node.js)</li>
+  <li>SQLite (lightweight DB)</li>
+  <li>Prisma Lite / Sequelize (simpler ORM)</li>
+</ul>
 
----
+</details>
 
-## ⚡ Additional Tools & Libraries
+<details>
+<summary>Advanced Level (Front-End Frameworks & Fullstack)</summary>
 
-- Git & GitHub
-- Postman / Insomnia
-- NGROK
-- VSCode Extensions
-- Docker / Kubernetes
-- Lodash, Axios, Chart.js
-- Testing: Jest, Cypress
+### Front-End Frameworks
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS">React.js</a></li>
+  <li><a href="https://youtu.be/k7o9R6eaSes">Next.js</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">TypeScript</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Pk3hhCJG2Dk">Tailwind CSS</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">NextAuth.js</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma">ShadCN UI</a></li>
+</ul>
+
+### Backend & Tools
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">Fastify</a></li>
+  <li><a href="https://bun.sh">Bun Runtime</a></li>
+  <li>Electron (Desktop Apps)</li>
+  <li>Docker & Kubernetes</li>
+  <li>Databases: MongoDB, PostgreSQL, Redis</li>
+</ul>
+
+### Additional Languages
+<ul>
+  <li>Python (Backend & Data Science)</li>
+  <li>Go (Golang)</li>
+  <li>Rust (WebAssembly & Performance)</li>
+  <li>GraphQL (API Query Language)</li>
+</ul>
+
+### Projects
+<ul>
+  <li><a href="https://youtu.be/ZbX4Ok9YX94">FullStack Discord Clone</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PGPGcKBpAk8">E-commerce Store</a></li>
+  <li><a href="https://youtu.be/Big_aFLmekI">Social Media App</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Av9C7xlV0fA">Chat App - Part 1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=37v63U7-iG0">Chat App - Part 2</a></li>
+  <li><a href="https://www.youtube.com/watch?v=LyfUTRJ2gOs">Job Portal</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3CMgznBdl-M">Project Management Tool</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OkKbAuQXFcM">Video Streaming App</a></li>
+</ul>
 
 ### Alternatives
-- **Version Control:** GitKraken (GUI instead of CLI)
-- **API Testing:** Hoppscotch (lighter than Postman)
-- **Containers:** Podman (simpler than Docker)
+<ul>
+  <li>Vue.js (simpler than React)</li>
+  <li>SvelteKit / Remix (simpler Fullstack than Next.js)</li>
+  <li>Supabase (PostgreSQL + Auth easier than manual setup)</li>
+  <li>Tauri (lighter alternative to Electron)</li>
+</ul>
+
+</details>
+
+<details>
+<summary>Additional Tools & Libraries</summary>
+
+<ul>
+  <li>Git & GitHub</li>
+  <li>Postman / Insomnia</li>
+  <li>NGROK</li>
+  <li>VSCode Extensions</li>
+  <li>Docker / Kubernetes</li>
+  <li>Lodash, Axios, Chart.js</li>
+  <li>Testing: Jest, Cypress</li>
+</ul>
+
+### Alternatives
+<ul>
+  <li>GitKraken (GUI for Git)</li>
+  <li>Hoppscotch (lighter API testing)</li>
+  <li>Podman (lighter than Docker)</li>
+</ul>
+
+</details>
