@@ -1,4 +1,4 @@
-# 🌐 Full-Stack Web Development Path
+# Full-Stack Web Development Path
 
 <style>
   summary {
@@ -36,7 +36,7 @@
 ---
 
 <details>
-<summary>🟢 Beginner Level</summary>
+<summary>Beginner Level</summary>
 
 ### HTML & CSS
 <ul>
@@ -60,7 +60,7 @@
 ---
 
 <details>
-<summary>🟡 Intermediate Level</summary>
+<summary>Intermediate Level</summary>
 
 ### JavaScript
 <ul>
@@ -75,6 +75,7 @@
   <li><a href="https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu">Node.js</a></li>
   <li><a href="https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag">Password Hashing with bcrypt</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">SQL - MySQL</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
 </ul>
 
 </details>
@@ -82,17 +83,20 @@
 ---
 
 <details>
-<summary>🟠 Advanced Level</summary>
+<summary>Advanced Level</summary>
 
-### Front-End Frameworks
+### Front-End Frameworks & Tools
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS">React.js</a></li>
   <li><a href="https://youtu.be/k7o9R6eaSes">Next.js</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">TypeScript</a></li>
   <li><a href="https://www.youtube.com/watch?v=Pk3hhCJG2Dk">Tailwind CSS</a></li>
-  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
   <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">NextAuth</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma">ShadCN</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">Fastify</a></li>
+  <li><a href="https://bun.sh">Bun</a></li>
+  <li><a href="https://www.electronjs.org/">Electron</a></li>
 </ul>
 
 </details>
@@ -100,7 +104,7 @@
 ---
 
 <details>
-<summary>🔴 Big Projects</summary>
+<summary>Big Projects</summary>
 
 <ul>
   <li><a href="https://youtu.be/ZbX4Ok9YX94">FullStack Discord Clone - Final Project</a></li>
@@ -111,6 +115,21 @@
   <li><a href="https://www.youtube.com/watch?v=LyfUTRJ2gOs">Project 4</a></li>
   <li><a href="https://www.youtube.com/watch?v=3CMgznBdl-M">Project 5</a></li>
   <li><a href="https://www.youtube.com/watch?v=OkKbAuQXFcM">Project 6</a></li>
+</ul>
+
+</details>
+
+---
+
+<details>
+<summary>Additional Tools & Libraries</summary>
+
+<ul>
+  <li><a href="https://www.postman.com/">Postman (API Testing)</a></li>
+  <li><a href="https://ngrok.com/">NGROK (Local Server Tunneling)</a></li>
+  <li><a href="https://git-scm.com/">Git & GitHub (Version Control)</a></li>
+  <li>VSCode Extensions (Linting & Debugging)</li>
+  <li>Other JS Libraries as needed for projects</li>
 </ul>
 
 </details>
