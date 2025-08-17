@@ -1,71 +1,116 @@
 # 🌐 Full-Stack Web Development Path
 
+<style>
+  summary {
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    transition: all 0.3s ease;
+  }
+  summary:hover {
+    background-color: #45a049;
+  }
+  details[open] summary {
+    background-color: #388E3C;
+  }
+  ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+  a {
+    color: #1E88E5;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  a:hover {
+    color: #0D47A1;
+    text-decoration: underline;
+  }
+</style>
+
 ---
 
 <details>
-<summary>🟢 Beginner Level / أساسيات المبتدئين</summary>
+<summary>🟢 Beginner Level</summary>
 
 ### HTML & CSS
-- [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)  
-- [HTML5](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ)  
-- [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)  
-- [CSS3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC)  
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji">HTML</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ">HTML5</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe">CSS</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC">CSS3</a></li>
+</ul>
 
 ### HTML & CSS Projects
-- [Project 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)  
-- [Project 2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)  
-- [Project 3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)  
-- [Project 4](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)  
-- [Project 5](https://www.youtube.com/watch?v=l7WzND2sD-A)  
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">Project 1</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">Project 2</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">Project 3</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">Project 4</a></li>
+  <li><a href="https://www.youtube.com/watch?v=l7WzND2sD-A">Project 5</a></li>
+</ul>
 
 </details>
 
 ---
 
 <details>
-<summary>🟡 Intermediate Level / المستوى المتوسط</summary>
+<summary>🟡 Intermediate Level</summary>
 
 ### JavaScript
-- [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)  
-- [JavaScript ES6](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M)  
-- [JavaScript OOP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)  
-- [Advanced JavaScript](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3)  
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv">JavaScript</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy3siU1b04xY24ZlstofO9M">JavaScript ES6</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF">JavaScript OOP</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=r3c969SfLkD5CQG3">Advanced JavaScript</a></li>
+</ul>
 
 ### Node.js & Backend
-- [Node.js](https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu)  
-- [Password Hashing with bcrypt](https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag)  
-- [SQL - MySQL](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)  
+<ul>
+  <li><a href="https://youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS&si=c8kRq-25ns-rHppu">Node.js</a></li>
+  <li><a href="https://youtu.be/AzA_LTDoFqY?si=8rsHsfuz71tQnVag">Password Hashing with bcrypt</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">SQL - MySQL</a></li>
+</ul>
 
 </details>
 
 ---
 
 <details>
-<summary>🟠 Advanced Level / المستوى المتقدم</summary>
+<summary>🟠 Advanced Level</summary>
 
 ### Front-End Frameworks
-- [React.js](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS)  
-- [Next.js](https://youtu.be/k7o9R6eaSes)  
-- [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)  
-- [Tailwind CSS](https://www.youtube.com/watch?v=Pk3hhCJG2Dk)  
-- [Prisma](https://www.youtube.com/watch?v=yW6HnMUAWNU)  
-- [NextAuth](https://www.youtube.com/watch?v=GL2Dc4r6tkU)  
-- [ShadCN](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)  
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS">React.js</a></li>
+  <li><a href="https://youtu.be/k7o9R6eaSes">Next.js</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">TypeScript</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Pk3hhCJG2Dk">Tailwind CSS</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yW6HnMUAWNU">Prisma</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GL2Dc4r6tkU">NextAuth</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma">ShadCN</a></li>
+</ul>
 
 </details>
 
 ---
 
 <details>
-<summary>🔴 Big Projects / المشاريع الكبيرة</summary>
+<summary>🔴 Big Projects</summary>
 
-- [FullStack Discord Clone - Final Project](https://youtu.be/ZbX4Ok9YX94)  
-- [Project 1](https://www.youtube.com/watch?v=PGPGcKBpAk8)  
-- [Project 2](https://youtu.be/Big_aFLmekI)  
-- [Project 3 - Part 1](https://www.youtube.com/watch?v=Av9C7xlV0fA)  
-- [Project 3 - Part 2](https://www.youtube.com/watch?v=37v63U7-iG0)  
-- [Project 4](https://www.youtube.com/watch?v=LyfUTRJ2gOs)  
-- [Project 5](https://www.youtube.com/watch?v=3CMgznBdl-M)  
-- [Project 6](https://www.youtube.com/watch?v=OkKbAuQXFcM)  
+<ul>
+  <li><a href="https://youtu.be/ZbX4Ok9YX94">FullStack Discord Clone - Final Project</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PGPGcKBpAk8">Project 1</a></li>
+  <li><a href="https://youtu.be/Big_aFLmekI">Project 2</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Av9C7xlV0fA">Project 3 - Part 1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=37v63U7-iG0">Project 3 - Part 2</a></li>
+  <li><a href="https://www.youtube.com/watch?v=LyfUTRJ2gOs">Project 4</a></li>
+  <li><a href="https://www.youtube.com/watch?v=3CMgznBdl-M">Project 5</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OkKbAuQXFcM">Project 6</a></li>
+</ul>
 
 </details>
